@@ -1,7 +1,7 @@
 ## Hi there 👋
-<div style="width:100%;display:flex;align-items:center;background-color:#f00" >
+<div style="width:100%;background-color:#f00" >
 
-  <img src="https://www.epitech-it.es/wp-content/uploads/2022/06/softwares-de-programacion.jpg" alt="Enrique" style="width:80%;border-radius:30px;border-color:#1a0dab;margin:auto">
+  <img src="https://www.epitech-it.es/wp-content/uploads/2022/06/softwares-de-programacion.jpg" alt="Enrique" style="width:80%;border-radius:30px;border-color:#1a0dab;">
 
 </div>
 
