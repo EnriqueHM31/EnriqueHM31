@@ -1,6 +1,9 @@
 ## Hi there 👋
+<div style="width:100%;display:flex;align-items:center;background-color:#f00" >
 
-<img src="https://www.epitech-it.es/wp-content/uploads/2022/06/softwares-de-programacion.jpg" alt="Enrique" style="width:80%;border-radius:30px;border-color:#1a0dab;margin:auto">
+  <img src="https://www.epitech-it.es/wp-content/uploads/2022/06/softwares-de-programacion.jpg" alt="Enrique" style="width:80%;border-radius:30px;border-color:#1a0dab;margin:auto">
+
+</div>
 
 # 💫 About Me:
 💻 Analítico: Capaz de resolver problemas de manera lógica.<br>🧠 Creativo: Encuentra soluciones innovadoras a desafíos complejos.<br>⏰ Organizado: Maneja bien su tiempo y prioridades.<br>🤖 Detallista: Presta atención a los pequeños detalles en el código.<br>🌐 Colaborador: Trabaja bien en equipo y se comunica efectivamente.<br>📚 Curioso: Siempre busca aprender nuevas tecnologías y lenguajes.<br>🔍 Metódico: Sigue un enfoque sistemático para abordar proyectos.<br>🚀 Adaptable: Se ajusta rápidamente a cambios y nuevas herramientas.<br>💬 Comunicador: Explica conceptos complejos de forma sencilla.<br>🔒 Segurista: Priorizando la seguridad en el desarrollo de software.
