@@ -1,9 +1,6 @@
 ## Hola!!
 <div style="width:100%;background-color:#f00" >
 
-  <img src=<img width="1024" height="1024" alt="Gemini_Generated_Image_ee3piyee3piyee3p" src="https://github.com/user-attachments/assets/5af1d611-8b91-465b-abca-379b65eba2f8" />
-"" alt="Enrique" style="width:100%;border-radius:30px;border-color:#1a0dab;">
-
 </div>
 
 # 💫 About Me:
