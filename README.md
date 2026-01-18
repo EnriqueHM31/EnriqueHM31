@@ -1,6 +1,6 @@
 ## Hola!!
 <div style="width:100%;background-color:#f00" >
-
+<img width="1021" height="571" alt="Gemini_Generated_Image_ee3piyee3piyee3p (1)" src="https://github.com/user-attachments/assets/bc89dc15-309f-49e9-b35f-723fc52ce9ee" />
 </div>
 
 # 💫 About Me:
